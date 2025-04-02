@@ -8,4 +8,4 @@ for (let b = 1; b < a.length; b++) {
         maxElement=a[b];
     }
 }
-console.log(max);
+console.log(maxElement);
