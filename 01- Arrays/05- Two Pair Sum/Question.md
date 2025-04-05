@@ -43,7 +43,7 @@ Flowers at index 0 and 1 sum up to the target only: `1 + 1 = 2`.
 ## Sample Input 1
 ```
 7 5
-1 2 2 4 5 7 10
+1,2,2,4,5,7,10
 ```
 
 ## Sample Output 1
